@@ -1,4 +1,4 @@
-package ru.kpfu.itis.group403.khusaenov.ClosestDots;
+package ru.kpfu.itis.group403.khusaenov.Semestr_ClosestDots;
 import java.util.*;
 
 public class ClosestPoints {
